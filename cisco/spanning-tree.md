@@ -53,6 +53,8 @@ Die Bridge-ID ist wie folgt Zusammengesetz: 4 Bit Priorität + 12 System ID (VLA
 
 ## Konfiguration RSTP, RPVST+
 
+![Beispiel SpanningTree](<../.gitbook/assets/stp (1).svg>)
+
 ![Beispiel](../.gitbook/assets/stp.svg)
 
 ### Switch 1
