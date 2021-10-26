@@ -6,3 +6,6 @@
 * [Interface](cisco/interface.md)
 * [VLAN](cisco/vlan.md)
 * [Spanning Tree](cisco/spanning-tree.md)
+* [RIP](cisco/rip.md)
+* [EIGRP](cisco/eigrp.md)
+* [OSPF](cisco/ospf.md)
