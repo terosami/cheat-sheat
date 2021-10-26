@@ -18,6 +18,8 @@
 
 ![RIP Beispiel](../.gitbook/assets/routing.svg)
 
+![RIP Konfiguration](../.gitbook/assets/rip.svg)
+
 ### Router 1
 
 ```

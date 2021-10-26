@@ -16,6 +16,8 @@
 
 ![EIGRP Beispiel](../.gitbook/assets/routing.svg)
 
+![EIGRP Beispiel](../.gitbook/assets/rip.svg)
+
 ### Router 1
 
 ```

@@ -9,6 +9,8 @@
 * [RIP](cisco/rip.md)
 * [EIGRP](cisco/eigrp.md)
 * [OSPF](cisco/ospf.md)
+* [ACL](cisco/acl.md)
+* [SNMP](cisco/snmp.md)
 
 ## Netzwerk
 
