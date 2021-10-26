@@ -18,8 +18,6 @@
 
 ![OSPF Beispiel](../.gitbook/assets/routing.svg)
 
-![OSPF Beispiel](../.gitbook/assets/rip.svg)
-
 ### Router 1
 
 ```
